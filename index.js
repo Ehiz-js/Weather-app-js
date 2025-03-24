@@ -1,3 +1,4 @@
+//VARIABLE DECLARATORS
 const cityInput = document.querySelector(".cityInput");
 const weatherForm = document.querySelector(".weatherForm");
 const card = document.querySelector(".card");
